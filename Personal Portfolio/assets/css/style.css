@@ -303,7 +303,7 @@ body {
 \*-----------------------------------*/
 
 .elem,
-.rotate-img { display: none; }
+.rotate-img1 { display: none; }
 
 .hero {
   background-image: url("../images/hero-bg.jpg");
@@ -916,7 +916,7 @@ textarea.contact-input {
     font-size: 6rem;
   }
 
-  .rotate-img {
+  .rotate-img1 {
     display: block;
     position: absolute;
     bottom: -60px;
